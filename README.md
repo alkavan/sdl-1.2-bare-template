@@ -4,7 +4,7 @@ This is a template C++ project for the SDL 1.2 library.
 The "first commit" is the most simple template, it is tagged with v1.0.
 
 
-I will be updating this template from time to time with some
+I might be updating this template from time to time with some
 other basic features i will find suitable for this template.
 
 
